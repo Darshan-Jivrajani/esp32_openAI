@@ -11,4 +11,4 @@ sudo apt-get update
 sudo apt-get upgrade
 pip install openai
 export OPENAI_API_KEY="sk-xxxxxxxx"
-python chat_ai.py
+python ai_server.py
